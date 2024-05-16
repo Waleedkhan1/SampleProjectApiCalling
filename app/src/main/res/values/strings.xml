@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoallyApp</string>
+    <string name="string_press_again_to_exit">Press again to exit</string>
+    <string name="string_internet_connection_not_stable">Internet connection is not stable</string>
+
+    <string name="API_KEY">5d967c7c335764f39b1efbe9c5de9760</string>
+</resources>
